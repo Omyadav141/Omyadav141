@@ -3,9 +3,10 @@
 Computer Science student specializing in AI & Data Science.
 Passionate about working with data, building machine learning models, and solving real-world problems through intelligent systems.
 
-⚙️ Skills: Python, SQL, Machine Learning, NLP
-📊 Interested in Data-Driven Technologies & AI Solutions
-🎯 Always improving through practical projects and experimentation
+⚙️ Skills: Python, SQL, Machine Learning, NLP  
+📊 Interests: Data-Driven Technologies & AI Solutions  
+🎯 Growth Mindset: Improving through hands-on projects and experimentation  
+
 
 
 <!---
