@@ -67,3 +67,11 @@ Git • Docker • Jupyter Notebook • Arduino IDE
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Omyadav141&theme=tokyonight"/>
 </p>
+
+## 📊 GitHub Analytics
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Omyadav141&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omyadav141&layout=compact&theme=tokyonight"/>
+</p>
+
+---
