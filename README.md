@@ -2,9 +2,8 @@
 ### Data Scientist • Python • Machine Learning • AI Builder
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f14,100:0b0f14&height=180&section=header&text=Om%20Yadav&fontSize=46&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Om%20Yadav&fontSize=40&fontColor=ffffff" />
 </p>
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Om%20Yadav&fontSize=40&fontColor=ffffff)
 <p align="center">
 Data Scientist • Python & Machine Learning Developer • AI Builder
 </p>
