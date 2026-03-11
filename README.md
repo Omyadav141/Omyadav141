@@ -8,13 +8,13 @@
 Data Scientist • Python & Machine Learning Developer • AI Builder
 </p>
 <p align="center">
-<a href="https://linkedin.com/in/your-link">
+<a href="https://www.linkedin.com/in/omyadav141/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:omyadav9860@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/Omyadav141">
+<a href="https://linktr.ee/ommyadav">
   <img src="https://img.shields.io/badge/Profile_Views-Visitor_Counter-1f6feb?style=for-the-badge"/>
 </a>
 </p>
