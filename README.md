@@ -36,29 +36,45 @@ As a Data Science enthusiast, I focus on solving real-world problems using machi
 
 ## 🛠 Tech Stack
 
-### 👨‍💻 Languages & Technologies
+### 👨‍💻 Languages & Libraries
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,r,mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=python,java,sql" />
 </p>
-Python • Java • JavaScript • HTML • CSS • SQL • PostgreSQL • MySQL • R
+Python • Pandas • NumPy • Scikit-Learn • SQL
 
 ### 📊 Data & ML
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
-Machine Learning • Data Analytics • Feature Engineering • NLP • Model Building
+Machine Learning • Data Analytics • Feature Engineering
 
 ### ⚙️ Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
 </p>
-Git • Docker • Jupyter Notebook • Arduino IDE
+
+---
+
+## 📂 Featured Work
+
+🔹 **AI Voice Assistant**  
+Built a Python-based voice automation system.
+
+🔹 **Sales Data Analysis (5000+ rows)**  
+Performed EDA & extracted business-driven insights.
+
+🔹 **Fake News Detection (NLP Project)**  
+Built ML pipeline to classify real vs fake news articles.
+
+🔹 **Task Manager Web App**  
+Modern productivity web application.
 
 ---
 
 ## 📊 GitHub Analytics
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Omyadav141&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omyadav141&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -69,3 +85,18 @@ Git • Docker • Jupyter Notebook • Arduino IDE
 </p>
 
 ---
+
+## 🎯 2026 Vision
+✔ Build production-ready AI systems  
+✔ Deploy ML models to cloud  
+✔ Contribute to open-source  
+✔ Master advanced deep learning  
+
+---
+
+## 🤝 Let's Connect
+I’m always open to collaborations, internships, and innovative AI opportunities.
+
+📍 Nagpur, Maharashtra, India  
+🔗 LinkedIn: https://linkedin.com/in/your-link  
+📧 Email: omyadav9860@gmail.com
