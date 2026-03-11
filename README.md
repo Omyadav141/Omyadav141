@@ -1,12 +1,33 @@
-# Hi, I’m @Om yadav 👋
+<h1 align="center">Hi, I'm Om Yadav 👋</h1>
 
-Computer Science student specializing in AI & Data Science.
-Passionate about working with data, building machine learning models, and solving real-world problems through intelligent systems.
+<p align="center">
+  💻 Computer Science Student | 🤖 AI & Data Science Enthusiast <br>
+  🚀 Building ML Projects | 📊 Data-Driven Solutions
+</p>
 
-⚙️ Skills: Python, SQL, Machine Learning, NLP  
-📊 Interests: Data-Driven Technologies & AI Solutions  
-🎯 Growth Mindset: Improving through hands-on projects and experimentation  
+---
 
+## 🧠 Skills
+- Python
+- SQL
+- Machine Learning
+- NLP
+- Java
+
+## 🎯 Interests
+- Artificial Intelligence
+- Data Science
+- Real-world problem solving
+
+## 📈 Currently Learning
+- Deep Learning
+- MLOps
+- Advanced DSA
+
+## 🌐 Connect With Me
+- LinkedIn: (your link)
+- Portfolio: (your link)
+- Email: omyadav9860@gmail.com
 
 
 <!---
