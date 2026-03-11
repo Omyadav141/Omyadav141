@@ -36,45 +36,29 @@ As a Data Science enthusiast, I focus on solving real-world problems using machi
 
 ## 🛠 Tech Stack
 
-### 👨‍💻 Languages & Libraries
+### 👨‍💻 Languages & Technologies
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,sql" />
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,r,mysql,postgresql" />
 </p>
-Python • Pandas • NumPy • Scikit-Learn • SQL
+Python • Java • JavaScript • HTML • CSS • SQL • PostgreSQL • MySQL • R
 
 ### 📊 Data & ML
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
 </p>
-Machine Learning • Data Analytics • Feature Engineering
+Machine Learning • Data Analytics • Feature Engineering • NLP • Model Building
 
 ### ⚙️ Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
+<img src="https://skillicons.dev/icons?i=git,docker" />
 </p>
-
----
-
-## 📂 Featured Work
-
-🔹 **AI Voice Assistant**  
-Built a Python-based voice automation system.
-
-🔹 **Sales Data Analysis (5000+ rows)**  
-Performed EDA & extracted business-driven insights.
-
-🔹 **Fake News Detection (NLP Project)**  
-Built ML pipeline to classify real vs fake news articles.
-
-🔹 **Task Manager Web App**  
-Modern productivity web application.
+Git • Docker • Jupyter Notebook • Arduino IDE
 
 ---
 
 ## 📊 GitHub Analytics
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Omyadav141&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omyadav141&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -83,20 +67,3 @@ Modern productivity web application.
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Omyadav141&theme=tokyonight"/>
 </p>
-
----
-
-## 🎯 2026 Vision
-✔ Build production-ready AI systems  
-✔ Deploy ML models to cloud  
-✔ Contribute to open-source  
-✔ Master advanced deep learning  
-
----
-
-## 🤝 Let's Connect
-I’m always open to collaborations, internships, and innovative AI opportunities.
-
-📍 Nagpur, Maharashtra, India  
-🔗 LinkedIn: https://linkedin.com/in/your-link  
-📧 Email: omyadav9860@gmail.com
