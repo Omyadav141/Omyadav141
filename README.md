@@ -68,11 +68,10 @@ Git • Docker • Jupyter Notebook • Arduino IDE
 <img src="https://streak-stats.demolab.com?user=Omyadav141&theme=tokyonight"/>
 </p>
 
-
 ---
-## 🐍 Contribution Activity
+---
+
+## 🐍 Contribution Snake
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Omyadav141&theme=tokyonight"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
-
----
