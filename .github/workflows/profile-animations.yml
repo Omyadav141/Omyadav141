@@ -1,0 +1,75 @@
+# Keeps the animated parts of the profile README fresh.
+#
+#   avatar : re-renders assets/avatar-dotmatrix.svg from your CURRENT GitHub
+#            profile picture -> change your photo, the LED wall follows.
+#   snake  : regenerates the contribution-snake animation into assets/.
+#
+# One-time setup:
+#   Settings -> Actions -> General -> Workflow permissions
+#   -> "Read and write permissions" -> Save.
+#
+# If you ever rename your GitHub account, update GH_USER below.
+
+name: profile-animations
+
+on:
+  schedule:
+    - cron: "17 2 * * *" # every day at 02:17 UTC
+  workflow_dispatch: # run it by hand from the Actions tab
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+env:
+  GH_USER: Omyadav141
+
+jobs:
+  avatar:
+    name: Rebuild dot-matrix avatar
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Pillow
+        run: pip install --quiet pillow
+
+      - name: Render profile picture as an LED panel
+        run: |
+          python scripts/avatar_dots.py \
+            --user "$GH_USER" \
+            --label "$GH_USER" \
+            --grid 42 \
+            --mode color \
+            --out assets/avatar-dotmatrix.svg
+
+      - name: Commit if the picture changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh dot-matrix avatar"
+          file_pattern: assets/avatar-dotmatrix.svg
+
+  snake:
+    name: Regenerate contribution snake
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build the snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Omyadav141
+          outputs: |
+            assets/github-snake.svg
+            assets/github-snake-dark.svg?palette=github-dark
+
+      - name: Commit the new snake
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh contribution snake"
+          file_pattern: "assets/github-snake*.svg"
