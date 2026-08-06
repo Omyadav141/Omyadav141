@@ -6,47 +6,35 @@
 <clipPath id="bar"><rect x="25" y="58" width="430" height="11" rx="5.5"/></clipPath>
 <rect x="25" y="58" width="430" height="11" rx="5.5" fill="#161b22"/>
 <g clip-path="url(#bar)">
-<rect x="25" y="58" width="219.12" height="11" fill="#3572A5"><animate attributeName="width" values="0;219.12" dur="0.9s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.16 0.8 0.24 1"/></rect>
-<rect x="244.12" y="58" width="85.93" height="11" fill="#DA5B0B"><animate attributeName="width" values="0;85.93" dur="0.9s" begin="0.27s" fill="freeze" calcMode="spline" keySplines="0.16 0.8 0.24 1"/></rect>
-<rect x="330.05" y="58" width="47.26" height="11" fill="#f1e05a"><animate attributeName="width" values="0;47.26" dur="0.9s" begin="0.34s" fill="freeze" calcMode="spline" keySplines="0.16 0.8 0.24 1"/></rect>
-<rect x="377.31" y="58" width="34.37" height="11" fill="#b07219"><animate attributeName="width" values="0;34.37" dur="0.9s" begin="0.41s" fill="freeze" calcMode="spline" keySplines="0.16 0.8 0.24 1"/></rect>
-<rect x="411.68" y="58" width="21.84" height="11" fill="#e34c26"><animate attributeName="width" values="0;21.84" dur="0.9s" begin="0.48s" fill="freeze" calcMode="spline" keySplines="0.16 0.8 0.24 1"/></rect>
-<rect x="433.52" y="58" width="13.61" height="11" fill="#563d7c"><animate attributeName="width" values="0;13.61" dur="0.9s" begin="0.55s" fill="freeze" calcMode="spline" keySplines="0.16 0.8 0.24 1"/></rect>
-<rect x="447.12" y="58" width="7.88" height="11" fill="#198CE7"><animate attributeName="width" values="0;7.88" dur="0.9s" begin="0.62s" fill="freeze" calcMode="spline" keySplines="0.16 0.8 0.24 1"/></rect>
+<rect x="25" y="58" width="316.77" height="11" fill="#e34c26"><animate attributeName="width" values="0;316.77" dur="0.9s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.16 0.8 0.24 1"/></rect>
+<rect x="341.77" y="58" width="50.63" height="11" fill="#3178c6"><animate attributeName="width" values="0;50.63" dur="0.9s" begin="0.27s" fill="freeze" calcMode="spline" keySplines="0.16 0.8 0.24 1"/></rect>
+<rect x="392.41" y="58" width="35.54" height="11" fill="#f1e05a"><animate attributeName="width" values="0;35.54" dur="0.9s" begin="0.34s" fill="freeze" calcMode="spline" keySplines="0.16 0.8 0.24 1"/></rect>
+<rect x="427.94" y="58" width="21.69" height="11" fill="#663399"><animate attributeName="width" values="0;21.69" dur="0.9s" begin="0.41s" fill="freeze" calcMode="spline" keySplines="0.16 0.8 0.24 1"/></rect>
+<rect x="449.63" y="58" width="5.37" height="11" fill="#3572A5"><animate attributeName="width" values="0;5.37" dur="0.9s" begin="0.48s" fill="freeze" calcMode="spline" keySplines="0.16 0.8 0.24 1"/></rect>
 </g>
 <g opacity="1"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.1944;0.4444;1" dur="1.8s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-10 0;0 0" dur="0.5s" begin="0.35s" fill="freeze" calcMode="spline" keySplines="0.16 0.8 0.24 1"/>
-<circle cx="30" cy="96" r="5" fill="#3572A5"/>
-<text x="43" y="100" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" fill="#c9d1d9">Python</text>
-<text x="225" y="100" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#6e7681">51.0%</text>
+<circle cx="30" cy="96" r="5" fill="#e34c26"/>
+<text x="43" y="100" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" fill="#c9d1d9">HTML</text>
+<text x="225" y="100" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#6e7681">73.7%</text>
 </g>
 <g opacity="1"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.2333;0.4833;1" dur="1.8s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-10 0;0 0" dur="0.5s" begin="0.42s" fill="freeze" calcMode="spline" keySplines="0.16 0.8 0.24 1"/>
-<circle cx="250" cy="96" r="5" fill="#DA5B0B"/>
-<text x="263" y="100" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" fill="#c9d1d9">Jupyter Notebook</text>
-<text x="445" y="100" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#6e7681">20.0%</text>
+<circle cx="250" cy="96" r="5" fill="#3178c6"/>
+<text x="263" y="100" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" fill="#c9d1d9">TypeScript</text>
+<text x="445" y="100" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#6e7681">11.8%</text>
 </g>
 <g opacity="1"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.2722;0.5222;1" dur="1.8s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-10 0;0 0" dur="0.5s" begin="0.49s" fill="freeze" calcMode="spline" keySplines="0.16 0.8 0.24 1"/>
 <circle cx="30" cy="120" r="5" fill="#f1e05a"/>
 <text x="43" y="124" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" fill="#c9d1d9">JavaScript</text>
-<text x="225" y="124" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#6e7681">11.0%</text>
+<text x="225" y="124" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#6e7681">8.3%</text>
 </g>
 <g opacity="1"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.3111;0.5611;1" dur="1.8s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-10 0;0 0" dur="0.5s" begin="0.56s" fill="freeze" calcMode="spline" keySplines="0.16 0.8 0.24 1"/>
-<circle cx="250" cy="120" r="5" fill="#b07219"/>
-<text x="263" y="124" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" fill="#c9d1d9">Java</text>
-<text x="445" y="124" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#6e7681">8.0%</text>
+<circle cx="250" cy="120" r="5" fill="#663399"/>
+<text x="263" y="124" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" fill="#c9d1d9">CSS</text>
+<text x="445" y="124" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#6e7681">5.0%</text>
 </g>
 <g opacity="1"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.35;0.6;1" dur="1.8s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-10 0;0 0" dur="0.5s" begin="0.63s" fill="freeze" calcMode="spline" keySplines="0.16 0.8 0.24 1"/>
-<circle cx="30" cy="144" r="5" fill="#e34c26"/>
-<text x="43" y="148" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" fill="#c9d1d9">HTML</text>
-<text x="225" y="148" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#6e7681">5.1%</text>
-</g>
-<g opacity="1"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.3889;0.6389;1" dur="1.8s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-10 0;0 0" dur="0.5s" begin="0.7s" fill="freeze" calcMode="spline" keySplines="0.16 0.8 0.24 1"/>
-<circle cx="250" cy="144" r="5" fill="#563d7c"/>
-<text x="263" y="148" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" fill="#c9d1d9">CSS</text>
-<text x="445" y="148" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#6e7681">3.2%</text>
-</g>
-<g opacity="1"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.4278;0.6778;1" dur="1.8s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-10 0;0 0" dur="0.5s" begin="0.77s" fill="freeze" calcMode="spline" keySplines="0.16 0.8 0.24 1"/>
-<circle cx="30" cy="168" r="5" fill="#198CE7"/>
-<text x="43" y="172" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" fill="#c9d1d9">R</text>
-<text x="225" y="172" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#6e7681">1.8%</text>
+<circle cx="30" cy="144" r="5" fill="#3572A5"/>
+<text x="43" y="148" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" fill="#c9d1d9">Python</text>
+<text x="225" y="148" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#6e7681">1.2%</text>
 </g>
 </svg>
