@@ -46,7 +46,7 @@ I build intelligent systems that turn raw data into decisions people can act on.
 
 <a href="https://www.linkedin.com/in/omyadav141/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:omyadav9860@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linktr.ee/ommyadav"><img src="https://img.shields.io/badge/Linktree-All_links-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
+<a href="https://linktr.ee/Omyadav141"><img src="https://img.shields.io/badge/Linktree-All_links-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=Omyadav141&label=Profile+views&color=1f6feb&style=for-the-badge"/>
 
 </td>
