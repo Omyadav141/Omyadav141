@@ -46,7 +46,7 @@ I build intelligent systems that turn raw data into decisions people can act on.
 
 <a href="https://www.linkedin.com/in/omyadav141/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:omyadav9860@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linktr.ee/Omyadav141"><img src="https://img.shields.io/badge/Linktree-All_links-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
+<a href="https://linktr.ee/ommyadav"><img src="https://img.shields.io/badge/Linktree-All_links-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=Omyadav141&label=Profile+views&color=1f6feb&style=for-the-badge"/>
 
 </td>
@@ -121,20 +121,20 @@ I build intelligent systems that turn raw data into decisions people can act on.
 
 <div align="center">
 
-<img width="48.5%" src="https://github-readme-stats.vercel.app/api?username=Omyadav141&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=7ee787&text_color=c9d1d9" alt="GitHub stats"/>
+<img width="48.5%" src="assets/stats-card.svg" alt="GitHub stats"/>
+<img width="48.5%" src="assets/langs-card.svg" alt="Most used languages"/>
+
+<br/><br/>
+
+<img width="100%" src="assets/achievements.svg" alt="GitHub highlights"/>
+
+<br/><br/>
+
 <img width="48.5%" src="https://streak-stats.demolab.com?user=Omyadav141&hide_border=true&background=0D1117&stroke=1B2431&ring=58A6FF&fire=F0883E&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681" alt="Contribution streak"/>
 
 <br/><br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omyadav141&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Most used languages"/>
-
-<br/><br/>
-
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Omyadav141&bg_color=0d1117&color=58a6ff&line=7ee787&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" alt="Contribution graph"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Omyadav141&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="Trophies"/>
 
 </div>
 

@@ -2,7 +2,13 @@
 #
 #   avatar : re-renders assets/avatar-dotmatrix.svg from your CURRENT GitHub
 #            profile picture -> change your photo, the LED wall follows.
+#   stats  : rebuilds the stats / languages / highlights cards from the GitHub
+#            API using this repo's own token. No third-party server involved,
+#            so they can never 503 on you.
 #   snake  : regenerates the contribution-snake animation into assets/.
+#
+# The jobs run one after another on purpose - they all commit to main, and
+# running them in parallel would cause push conflicts.
 #
 # One-time setup:
 #   Settings -> Actions -> General -> Workflow permissions
@@ -21,6 +27,10 @@ on:
 
 permissions:
   contents: write
+
+concurrency:
+  group: profile-animations
+  cancel-in-progress: false
 
 env:
   GH_USER: Omyadav141
@@ -54,8 +64,31 @@ jobs:
           commit_message: "chore: refresh dot-matrix avatar"
           file_pattern: assets/avatar-dotmatrix.svg
 
+  stats:
+    name: Rebuild stats cards
+    needs: avatar
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Render stats, languages and highlights
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/stats_cards.py --user "$GH_USER" --out-dir assets
+
+      - name: Commit the refreshed cards
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh stats cards"
+          file_pattern: "assets/stats-card.svg assets/langs-card.svg assets/achievements.svg"
+
   snake:
     name: Regenerate contribution snake
+    needs: stats
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
