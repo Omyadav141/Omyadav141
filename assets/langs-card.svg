@@ -6,35 +6,29 @@
 <clipPath id="bar"><rect x="25" y="58" width="430" height="11" rx="5.5"/></clipPath>
 <rect x="25" y="58" width="430" height="11" rx="5.5" fill="#161b22"/>
 <g clip-path="url(#bar)">
-<rect x="25" y="58" width="282.6" height="11" fill="#e34c26"><animate attributeName="width" values="0;282.6" dur="0.9s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.16 0.8 0.24 1"/></rect>
-<rect x="307.6" y="58" width="110.8" height="11" fill="#3178c6"><animate attributeName="width" values="0;110.8" dur="0.9s" begin="0.27s" fill="freeze" calcMode="spline" keySplines="0.16 0.8 0.24 1"/></rect>
-<rect x="418.4" y="58" width="18.09" height="11" fill="#663399"><animate attributeName="width" values="0;18.09" dur="0.9s" begin="0.34s" fill="freeze" calcMode="spline" keySplines="0.16 0.8 0.24 1"/></rect>
-<rect x="436.49" y="58" width="13.67" height="11" fill="#f1e05a"><animate attributeName="width" values="0;13.67" dur="0.9s" begin="0.41s" fill="freeze" calcMode="spline" keySplines="0.16 0.8 0.24 1"/></rect>
-<rect x="450.15" y="58" width="4.85" height="11" fill="#3572A5"><animate attributeName="width" values="0;4.85" dur="0.9s" begin="0.48s" fill="freeze" calcMode="spline" keySplines="0.16 0.8 0.24 1"/></rect>
+<rect x="25" y="58" width="397.7" height="11" fill="#e34c26"><animate attributeName="width" values="0;397.7" dur="0.9s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.16 0.8 0.24 1"/></rect>
+<rect x="422.7" y="58" width="18.04" height="11" fill="#663399"><animate attributeName="width" values="0;18.04" dur="0.9s" begin="0.27s" fill="freeze" calcMode="spline" keySplines="0.16 0.8 0.24 1"/></rect>
+<rect x="440.74" y="58" width="7.39" height="11" fill="#3572A5"><animate attributeName="width" values="0;7.39" dur="0.9s" begin="0.34s" fill="freeze" calcMode="spline" keySplines="0.16 0.8 0.24 1"/></rect>
+<rect x="448.13" y="58" width="6.87" height="11" fill="#f1e05a"><animate attributeName="width" values="0;6.87" dur="0.9s" begin="0.41s" fill="freeze" calcMode="spline" keySplines="0.16 0.8 0.24 1"/></rect>
 </g>
 <g opacity="1"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.1944;0.4444;1" dur="1.8s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-10 0;0 0" dur="0.5s" begin="0.35s" fill="freeze" calcMode="spline" keySplines="0.16 0.8 0.24 1"/>
 <circle cx="30" cy="96" r="5" fill="#e34c26"/>
 <text x="43" y="100" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" fill="#c9d1d9">HTML</text>
-<text x="225" y="100" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#6e7681">65.7%</text>
+<text x="225" y="100" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#6e7681">92.5%</text>
 </g>
 <g opacity="1"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.2333;0.4833;1" dur="1.8s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-10 0;0 0" dur="0.5s" begin="0.42s" fill="freeze" calcMode="spline" keySplines="0.16 0.8 0.24 1"/>
-<circle cx="250" cy="96" r="5" fill="#3178c6"/>
-<text x="263" y="100" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" fill="#c9d1d9">TypeScript</text>
-<text x="445" y="100" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#6e7681">25.8%</text>
+<circle cx="250" cy="96" r="5" fill="#663399"/>
+<text x="263" y="100" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" fill="#c9d1d9">CSS</text>
+<text x="445" y="100" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#6e7681">4.2%</text>
 </g>
 <g opacity="1"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.2722;0.5222;1" dur="1.8s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-10 0;0 0" dur="0.5s" begin="0.49s" fill="freeze" calcMode="spline" keySplines="0.16 0.8 0.24 1"/>
-<circle cx="30" cy="120" r="5" fill="#663399"/>
-<text x="43" y="124" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" fill="#c9d1d9">CSS</text>
-<text x="225" y="124" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#6e7681">4.2%</text>
+<circle cx="30" cy="120" r="5" fill="#3572A5"/>
+<text x="43" y="124" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" fill="#c9d1d9">Python</text>
+<text x="225" y="124" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#6e7681">1.7%</text>
 </g>
 <g opacity="1"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.3111;0.5611;1" dur="1.8s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-10 0;0 0" dur="0.5s" begin="0.56s" fill="freeze" calcMode="spline" keySplines="0.16 0.8 0.24 1"/>
 <circle cx="250" cy="120" r="5" fill="#f1e05a"/>
 <text x="263" y="124" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" fill="#c9d1d9">JavaScript</text>
-<text x="445" y="124" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#6e7681">3.2%</text>
-</g>
-<g opacity="1"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.35;0.6;1" dur="1.8s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-10 0;0 0" dur="0.5s" begin="0.63s" fill="freeze" calcMode="spline" keySplines="0.16 0.8 0.24 1"/>
-<circle cx="30" cy="144" r="5" fill="#3572A5"/>
-<text x="43" y="148" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" fill="#c9d1d9">Python</text>
-<text x="225" y="148" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#6e7681">1.1%</text>
+<text x="445" y="124" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#6e7681">1.6%</text>
 </g>
 </svg>
